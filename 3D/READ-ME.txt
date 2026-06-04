@@ -1,0 +1,5 @@
+There seem to be two versions of the “Led & Key” TM1638 board. The first one I ordered has a light blue silkscreen and the designator U1 printed next to the chip, and J1 printed next to the pin connector strip. The ‘&’ in ‘Led & Key’ is also quite elegant, whereas on the boards that I got delivered later use a more stylized and bold font for the “Led & Key” phrase. These boards have small ‘+’ signs next to the LEDs and a darker blue silkscreen.
+
+What’s a bit annoying is that the distances between the mounting holes in the corners of the circuit boards for these two models differ slightly. For this reason, I had to design the simple enclosure in two versions. You’ll have to figure out for yourself which one is best suited for your application.
+
+On the bottom of the enclosure, there are four studs with a 4.4mm hole for M3x5 melt-in wire stubs to secure the board. These can be drilled out if the PCB is mounted with standard M3 screws.
